@@ -4,7 +4,8 @@ This is a simple readme file.
 
 some more text
 
-added to show all the differences.
+added to show all the differences and similarities
+
 
 test for branching stuff 
 
