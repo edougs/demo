@@ -1,4 +1,6 @@
 
 #License 
 
-some text here about whatever the license needs to have 
+some text here about whatever the license needs to have.
+
+additional license stuff.
